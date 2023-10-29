@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><img src="https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png" alt="Oh My Zsh"></p>
 
 Oh My Zsh is an open source, community-driven framework for managing your [zsh](https://www.zsh.org/) configuration.
@@ -459,3 +460,7 @@ Oh My Zsh is released under the [MIT license](LICENSE.txt).
 ![Planet Argon](https://pa-github-assets.s3.amazonaws.com/PARGON_logo_digital_COL-small.jpg)
 
 Oh My Zsh was started by the team at [Planet Argon](https://www.planetargon.com/?utm_source=github), a [Ruby on Rails development agency](http://www.planetargon.com/services/ruby-on-rails-development?utm_source=github). Check out our [other open source projects](https://www.planetargon.com/open-source?utm_source=github).
+=======
+# oh-my-zsh
+Copia personalizada de Oh My Zsh
+>>>>>>> 39590bf308c8c82e8e6adb4bfaf76e5344450a11
